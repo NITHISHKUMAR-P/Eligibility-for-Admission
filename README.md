@@ -59,8 +59,8 @@ namespace exp1
 }
 ```
 ## Output:
-[](./out1.png)
-[](./out2.png)
+![](./out1.png)
+![](./out2.png)
 
 ## Result:
 A C# program to check the eligibility for admission to an engineering course has been successfully executed.
