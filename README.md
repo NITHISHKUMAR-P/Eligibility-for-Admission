@@ -1,4 +1,4 @@
-# Eligibility-for-Admission
+# Ex:1 Eligibility-for-Admission
 
 ## Aim:
 To write C# program to find the eligibility for admission to an engineering course.
@@ -14,6 +14,13 @@ Check for the given criteria for eligibility using if-else statements.
 Display whether the person is eligible for admission or not based on the given criteria. 
 
 ## Program:
+```
+/*
+Program to find the eligibility for admission to an engineering course.
+Developed by: Nithishkumar P
+RegisterNumber:  212221230070
+*/
+```
 ```c#
 using System;
 using System.Collections.Generic;
