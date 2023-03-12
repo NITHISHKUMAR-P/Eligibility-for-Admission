@@ -1,4 +1,4 @@
-# Ex:1 Eligibility-for-Admission
+# Ex:1  Eligibility-for-Admission
 
 ## Aim:
 To write C# program to find the eligibility for admission to an engineering course.
@@ -16,7 +16,7 @@ Display whether the person is eligible for admission or not based on the given c
 ## Program:
 ```
 /*
-Program to find the eligibility for admission to an engineering course.
+Program to check the eligibility for admission to an engineering course.
 Developed by: Nithishkumar P
 RegisterNumber:  212221230070
 */
