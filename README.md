@@ -14,7 +14,7 @@ Check for the given criteria for eligibility using if-else statements.
 Display whether the person is eligible for admission or not based on the given criteria. 
 
 ## Program:
-python```
+```c#
 using System;
 using System.Collections.Generic;
 using System.Linq;
